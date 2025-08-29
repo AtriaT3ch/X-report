@@ -19,7 +19,7 @@
 ## Relación de integrantes:
 
 
-* **Nombres y apellidos    Código de estudiante**
+* **Gonzalo Andre Zavala Quedena    u202113656**
 * **Nombres y apellidos    Código de estudiante**
 * **Nombres y apellidos    Código de estudiante**
 * **Nombres y apellidos    Código de estudiante**
@@ -199,7 +199,7 @@ A continuación se presentan los gráficos de colaboración de los integrantes d
         <p style="text-align: center;"><strong>Presentable del TB1</strong></p>
         <br>
         <!============APELLIDO Y NOMBRES 1=========================>
-        <strong>Apellidos y nombres:</strong>
+        <strong>Zavala Quedena, Gonzalo Andre:</strong>
         <br>
         Acciones realizadas de TB1 por el integrante 1
         <br><br>
@@ -227,7 +227,7 @@ A continuación se presentan los gráficos de colaboración de los integrantes d
         <p style="text-align: center;"><strong>Presentable del TP</strong></p>
         <br>
         <!============APELLIDO Y NOMBRES 1=========================>
-        <strong>Apellidos y nombres:</strong>
+        <strong>Zavala Quedena, Gonzalo Andre:</strong>
         <br>
         Acciones realizadas de TP por el integrante 1
         <br><br>
@@ -255,7 +255,7 @@ A continuación se presentan los gráficos de colaboración de los integrantes d
         <p style="text-align: center;"><strong>Presentable del TB2</strong></p>
         <br>
         <!============APELLIDO Y NOMBRES 1=========================>
-        <strong>Apellidos y nombres:</strong>
+        <strong>Zavala Quedena, Gonzalo Andre:</strong>
         <br>
         Acciones realizadas de TB2 por el integrante 1
         <br><br>
@@ -283,7 +283,7 @@ A continuación se presentan los gráficos de colaboración de los integrantes d
         <p style="text-align: center;"><strong>Presentable del TF</strong></p>
         <br>
         <!============APELLIDO Y NOMBRES 1=========================>
-        <strong>Apellidos y nombres:</strong>
+        <strong>Zavala Quedena, Gonzalo Andre:</strong>
         <br>
         Acciones realizadas de TB2 por el integrante 1
         <br><br>
@@ -329,7 +329,7 @@ A continuación se presentan los gráficos de colaboración de los integrantes d
         <p style="text-align: center;"><strong>Presentable del TB1</strong></p>
         <br>
         <!============APELLIDO Y NOMBRES 1=========================>
-        <strong>Apellidos y nombres:</strong>
+        <strong>Zavala Quedena, Gonzalo Andre:</strong>
         <br>
         Acciones realizadas de TB1 por el integrante 1
         <br><br>
@@ -357,7 +357,7 @@ A continuación se presentan los gráficos de colaboración de los integrantes d
         <p style="text-align: center;"><strong>Presentable del TP</strong></p>
         <br>
         <!============APELLIDO Y NOMBRES 1=========================>
-        <strong>Apellidos y nombres:</strong>
+        <strong>Zavala Quedena, Gonzalo Andre:</strong>
         <br>
         Acciones realizadas de TP por el integrante 1
         <br><br>
@@ -385,7 +385,7 @@ A continuación se presentan los gráficos de colaboración de los integrantes d
         <p style="text-align: center;"><strong>Presentable del TB2</strong></p>
         <br>
         <!============APELLIDO Y NOMBRES 1=========================>
-        <strong>Apellidos y nombres:</strong>
+        <strong>Zavala Quedena, Gonzalo Andre:</strong>
         <br>
         Acciones realizadas de TB2 por el integrante 1
         <br><br>
@@ -413,7 +413,7 @@ A continuación se presentan los gráficos de colaboración de los integrantes d
         <p style="text-align: center;"><strong>Presentable del TF</strong></p>
         <br>
         <!============APELLIDO Y NOMBRES 1=========================>
-        <strong>Apellidos y nombres:</strong>
+        <strong>Zavala Quedena, Gonzalo Andre:</strong>
         <br>
         Acciones realizadas de TB2 por el integrante 1
         <br><br>
